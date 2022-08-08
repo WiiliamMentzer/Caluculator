@@ -9,6 +9,6 @@ const number2 = prompt("Enter another number:");
 
 window.alert(add(number1, number2));
 
-function subtract {
+function subtract() {
 
 }
